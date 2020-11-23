@@ -1,3 +1,7 @@
+github.com/RenierMeintjies/news-demo-app v0.0.0-20201121134957-cc88f3942f28 h1:LVKbmlIE+rBMrFqfnSqpP49aL4qt+IflF1eFzUsfv/I=
+github.com/freshman-tech/news-demo v0.0.0-20201118101642-843a1394d80c h1:bjJkt4VJFyaJvfTByyLkyuo8byf8p4yuzoWFfUqOabk=
+github.com/freshman-tech/news-demo v0.0.0-20201118101642-843a1394d80c/go.mod h1:kFgk/CZE1reBVnGA996zbdwbs7Hnjo+5/u0XvbNrKpE=
+github.com/freshman-tech/news-demo-starter-files v0.0.0-20190822155806-d69e687ee8c1 h1:UHzVtcAWgUFmGPiEmnyJB2rpJQX+MGQIzRBvZ5FkWqk=
 github.com/howeyc/fsnotify v0.9.0 h1:0gtV5JmOKH4A8SsFxG2BczSeXWWPvcMT0euZt5gDAxY=
 github.com/howeyc/fsnotify v0.9.0/go.mod h1:41HzSPxBGeFRQKEEwgh49TRw/nKBsYZ2cF1OzPjSJsA=
 github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
