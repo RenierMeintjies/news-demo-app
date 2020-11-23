@@ -1,4 +1,4 @@
-module github.com/RenierMeintjies/testing-stuff
+module github.com/RenierMeintjies/news-demo-app
 
 go 1.15
 
